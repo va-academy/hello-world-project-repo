@@ -1,3 +1,10 @@
 #!/bin/bash
 echo "Hello, World!"
 echo "This is devops training."
+echo "Welcome to DevOps training." 
+echo "This is DevOps training."
+echo "This is DevOps training."
+echo "This is DevOps training."
+echo "This is DevOps training."
+echo "This is DevOps training."
+echo "This is DevOps training."
